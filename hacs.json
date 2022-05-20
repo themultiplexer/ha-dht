@@ -1,5 +1,5 @@
 {
-  "name": "Raspberry Pi RF",
+  "name": "DHT Sensor",
   "domains": ["sensor"],
   "iot_class": "Local Polling",
   "homeassistant": "2022.4.1"
